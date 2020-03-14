@@ -1,0 +1,641 @@
+@media only screen and (max-width: 1080px) {
+	.map_info iframe{
+		width: 1050px;
+	}
+	.post_job li{
+		padding: 0;
+	}
+	.tabs_ul li::after {
+		position: absolute;
+		border: 1px dashed #ddd;
+		content: "";
+		width: 120px;
+		right: -138px;
+		top: 32%;
+		height: 1px;
+}
+	.circleStepText{
+		font-size: 11px;
+	}
+	.post_job .first-cp{
+		margin: unset;
+	}
+	.box img {
+		width: 91%;
+	}
+	.side_btn .btn-primary{
+		padding: 5px 14px;
+	}
+	.sign_up_acc .sign-inr-p10 h3{
+		font-size: 24px;
+	}
+	.login_page .sinform-cp {
+		margin: 30px 20px 20px;
+	}
+	.plan1.plan2.text-center {
+		height: 283px;
+		max-height: 300px;
+		margin: 0 0 10px;
+	}
+	.plan1 h3.mid-head{
+		font-size: 28px;
+		padding: 0 0 30px;
+	}
+	.plan2 sup{
+		font-size: 30px;
+	}
+	.plan2 h3.plan-p{
+		font-size: 35px;
+	} 	
+	.plan2 sub{
+		font-size: 14px;
+	}
+	.choose_plans .tg-price {
+		padding: 0 0 56px;
+	}
+	.accordion li{
+		padding: 0;
+	}
+}
+
+@media only screen and (max-width: 991px) {
+	.slider_caption h3{
+		font-size: 45px;
+	}
+	.info_head h3{
+		font-size: 35px;
+	}
+	.side2_info h3{
+		font-size: 14px;
+	}
+	.content{
+		padding: 20px;
+	}
+	.content h2{
+		font-size: 22px;
+		padding: 0 0 9px 0;
+	}
+	.content p{
+		font-size: 12px;
+		margin: 0 0 25px 0;
+	}
+	.box img{
+		width: 88%;
+	}
+	.search_freelance .freelance_head h3{
+		font-size: 35px;
+	}
+	#event_sec .navbar-nav.my_auto{
+		flex-direction: row;
+		justify-content: center;
+		align-items: center;
+	}
+	.map_info iframe{
+		width: 959px;
+	}
+	.sign_up_acc .sign-inr-p10 h3{
+		font-size: 22px;
+	}
+	.login_page .sinform-cp{
+		margin: 30px 25px 20px; 
+	}
+	.first-img{
+		width: 260px;
+		height: 260px;
+	}
+	.first-info p{
+		margin: 0 27px 30px;
+	}
+	.sign_up_acc .sinform-cp{
+		margin: 20px 20px 20px;
+	}
+	.plan1 h3.mid-head{
+		font-size: 31px;
+	}
+	.plan2 h3.plan-p{
+		font-size: 40px;
+	}
+	.complte_form .sinform-cp {
+		padding: 20px 30px;
+	}
+	.complte_form label{
+		font-size: 12.5px;
+	}
+	.tabs_ul li::after {
+		position: absolute;
+		border: 1px dashed #ddd;
+		content: "";
+		width: 120px;
+		right: -128px;
+		top: 32%;
+		height: 1px;
+	}
+	.side_btn .btn-primary {
+		padding: 5px 24px;
+	}
+	.aboutus_info .text1 h3{
+		font-size: 32px;
+		padding: 0px 0 20px;
+	}
+	.contact_us .sinform-cp {
+		margin: 50px 20px 20px;
+	}
+	.left-10 h4::after{
+		width: 145px;
+	}	
+}
+
+@media only screen and (max-width: 800px) {
+	.info_head h3 {
+    	font-size: 28px;
+	}
+	.search_freelance .freelance_head h3 {
+    	font-size: 25px;
+	}
+	.side2_info{
+		margin: 0px 49px; 
+	}
+	.side2_info p{
+		font-size: 13px;
+	}
+	.map_info h3{
+		font-size: 30px;
+	}
+	.map_info iframe {
+		width: 769px;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.map_info iframe {
+		width: 737px;
+	}
+	.plan1 h3.mid-head{
+		padding: 0px 0 68px;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.sign_up_acc .sinform-cp {
+		margin: 50px 20px 20px;
+	}
+	.side2_info {
+		margin: 0px 104px;
+	}
+	.side1_info{
+		border: none;
+		margin: 0 0 30px;
+	}
+	.box img {
+		width: 95%;
+	}
+	.test1{
+		margin: 0 0 10px;
+	}
+	.box img{
+		height: 96%;
+	}
+	.map_info iframe{
+		width: 730px;
+	}
+	.info_head h3 {
+		font-size: 35px;
+	}
+	.search_freelance .freelance_head h3 {
+		font-size: 35px;
+	}
+	.info_content{
+		padding: 50px 30px;
+	}
+	.sign_up_acc .sign-inr-p10 h3 {
+		font-size: 25px;
+	}
+	.choose_my_cp{
+		margin: 0 0 20px;
+	}
+	.choose_sec_acc .first-head h3{
+		font-size: 35px;
+	}
+	.first-img {
+		width: 300px;
+		height: 300px;
+	}
+	.sign-info{
+		height: 400px;
+	}
+	.plan1.text-center{
+		margin: 0 0 20px;
+	}
+	.user_form{
+		padding: 30px;
+	}
+	.chat_request_form .first-cp{
+		padding: 25px;
+	}
+	.ser-btn {
+		margin: unset;
+	}
+	.ser_org_name{
+		margin: 20px 0;
+	}
+	.my_user_profile .log_btn {
+		margin: 0px 0px 15px;
+	}
+	.my-jobs .first-cp{
+		padding: 5px;
+	}
+	.spaceDots {
+		width: 129px;
+	}
+	.StepText .txtstep2 {
+		left: 102px;
+	}
+	.StepText .txtstep3 {
+		left: 212px;
+	}	
+	.progress_bar{
+		padding: 0;
+	}
+	.change_step{
+		width: 55px;
+		height: 55px;
+	}
+	.circleSteps{
+		width: 30px;
+		height: 30px;
+		line-height: 30px;
+		font-size: 16px;
+	}
+	.tabs_ul li::after {
+		position: absolute;
+		border: 1px dashed #ddd;
+		content: "";
+		width: 100px;
+		right: -98px;
+		top: 32%;
+		height: 1px;
+	}
+	.side_btn .btn-primary {
+		padding: 5px 50px;
+	}
+	.ser_field{
+		display: unset;
+	}
+	.ser_field .ser-btn {
+		margin: 15px 0 0;
+	}
+	.complte_form .sinform-cp .form-group {
+		margin: 0 0 1rem;
+	}
+	.aboutus_sec .img1 img{
+		margin: 0 0 10px;
+	}
+	.iner_about_txt{
+		padding: 60px 0 0;
+	}
+	.contact_us .sign-info {
+		height: 450px;
+	}
+}
+
+@media only screen and (max-width: 640px) {
+	.map_info iframe {
+		width: 610px;
+	}
+	.side2_info {
+		margin: 0px 83px;
+	}
+	.freelance_list .dropdown-menu{
+		left: unset !important;
+		right: 370px;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.slider_caption h3 {
+		font-size: 35px;
+	}
+	.side2_info {
+		margin: 0px 60px;
+	}
+	.map_info h3 {
+		font-size: 20px;
+	}
+	.map_info iframe {
+		width: 450px;
+	}
+	.search_freelance .img_side img{
+		width: 100%;
+	}
+	.side1_info .img_side img{
+		width: 100%;
+	}
+	.side2_info{
+		margin: unset;
+	}
+	.info_content{
+		padding: 20px 30px;
+	}
+	.freelance-pb{
+		margin: unset;
+	}
+	.search_freelance .freelance_head h3 {
+		font-size: 28px;
+	}
+	.info_head h3 {
+		font-size: 28px;
+	}
+	.choose_sec_acc .first-head h3 {
+		font-size: 28px;
+	}
+	/*a.cp_btn_mypro{
+		margin: 0 0 10px;
+	}*/
+	.chat_request_form .first-cp {
+		padding: 12px;
+	}
+	.my_user_profile .log_btn {
+		margin: 0 0px 15px;
+	}
+	.freelance_list .dropdown-menu {
+		right: 308px;
+	}
+	.my-jobs .first-cp {
+		padding: 5px;
+	}
+	.tabs_ul li::after {
+		position: absolute;
+		border: 1px dashed #ddd;
+		content: "";
+		width: 80px;
+		right: -76px;
+		top: 32%;
+		height: 1px;
+	}
+	.post_job .job_head h3{
+		padding: 30px 0 40px;
+	}
+	.nam-div{
+		margin: 6px auto 0;
+	}
+	.nam-div h4 {
+		padding: 0 10px;
+	}
+	.nam-div p {
+		padding: 0 10px;
+	}
+	.side_btn .btn-primary {
+		padding: 5px 46px;
+	}
+	.about_bottom .bot-txt h3{
+		padding: 0px 0 39px;
+		line-height: 0.7;
+	}	
+}
+	
+@media only screen and (max-width: 414px) {
+	.sign_up_acc .sinform-cp {
+		margin: 20px 20px 20px;
+	}
+	.box img {
+		width: 93%;
+	}
+	.map_info h3 {
+		font-size: 17px;
+	}
+	.map_info iframe {
+		width: 385px;
+	}
+	.freelance-pb{
+		margin: unset;
+	}
+	.info_head h3 {
+		font-size: 25px;
+	}
+	.search_freelance .freelance_head h3 {
+		font-size: 25px;
+	}
+	.choose_sec_acc .first-head h3 {
+		font-size: 25px;
+	}
+	a.cp_btn_mypro{
+		margin: 0 0 10px;
+	}
+	.first-img {
+		width: 280px;
+		height: 280px;
+	}
+	.chat_request_form .first-cp {
+		padding: 15px;
+	}
+	.comm{
+		font-size: 12px;
+	}
+	.freelance_list .dropdown-menu {
+		right: 243px;
+	}
+	.my-jobs .first-cp {
+		padding: 5px;
+	}
+	.post_job .job_head h3{
+		font-size: 20px;
+	}
+	.tabs_ul li::after {
+		display: none;
+	}
+	.tabs_ul {
+		display: flex;
+		flex-flow: row;
+		justify-content: space-between;
+		overflow-x: auto;
+		white-space: nowrap;
+		padding: 0 0 10px;
+	}
+	.change_step {
+		width: 45px;
+		height: 45px;
+	}
+	.circleSteps {
+		width: 25px;
+		height: 25px;
+		line-height: 25px;
+		font-size: 15px;
+		left: 8px;
+		top: 8px;
+	}
+	.circleStepText {
+		font-size: 11px;
+		padding: 17px 39px 0;
+	}
+	.chqs label {
+		font-size: 12px;		
+	}
+	.nam-div h4 {
+		padding: 0 15px;
+	}
+	.nam-div p {
+		padding: 0 15px;
+	}
+	.first-head h3::after{
+		width: 56px;
+	}
+	.side_btn{
+		flex-direction: column;
+	}
+	.side_btn a.my_reply_btn{
+		margin: 0 0 10px;
+	}
+	.side_btn .btn-primary {
+		padding: 5px 30px;
+	}
+	.about-us{
+		height: 400px;
+	}
+	.accordion a{
+		font-size: 0.775rem;
+	}
+}
+
+@media only screen and (max-width: 375px) {
+	.map_info iframe {
+		width: 346px;
+	}
+	.search_freelance .freelance_head h3 {
+		font-size: 23px;
+	}
+	.choose_sec_acc .first-head h3 {
+		font-size: 22px;
+	}
+	.first-img {
+		width: 260px;
+		height: 260px;
+	}
+	.comm {
+		font-size: 11px;
+	}
+	.freelance_list .dropdown-menu {
+		right: 204px;
+	}
+	.nam-div p {
+		padding: 0 20px;
+		font-size: 13px;
+	}
+	.nam-div h4 {
+		padding: 0 20px;
+		font-size: 15px;
+	}
+	.side_btn .btn-primary {
+		padding: 5px 21px;
+	}
+	.about_bottom .bot-txt h3{
+		font-size: 35px;
+	}
+	.accordion p {
+		font-size: 0.713rem;
+	}	
+}
+
+@media only screen and (max-width: 360px) {
+	.slider_caption h3 {
+		font-size: 25px;
+	}
+	.map_info h3 {
+		font-size: 15px;
+	}
+	.map_section{
+		padding: 30px 0;
+	}
+	.map_info iframe {
+		width: 330px;
+	}
+	.search_freelance .freelance_head h3 {
+		font-size: 21px;
+	}
+	.info_head h3 {
+		font-size: 22px;
+	}
+	.freelance_list .dropdown-menu {
+		right: 189px;
+	}
+	.nam-div h4 {
+		padding: 0 25px;
+	}
+	.nam-div p {
+		padding: 0 25px;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	.login_page .sign-info {
+		height: 330px;		
+	}
+	.footer_img {
+		text-align: center;
+	}
+	.search_freelance .freelance_head h3 {
+		font-size: 19px;
+	}
+	.map_info h3 {
+		font-size: 14px;
+	}
+	.download_icon li{
+		margin-bottom: unset;
+	}
+	.map_info iframe {
+		width: 290px;
+	}
+	.box img {
+		width: 91%;
+	}
+	.sign_up_acc .sign-inr-p10 h3 {
+		font-size: 19px;
+	}
+	.choose_sec_acc .first-head h3 {
+		font-size: 19px;
+	}
+	.first-img {
+		width: 230px;
+		height: 230px;
+	}
+	.btn-primary{
+		font-size: 13px;
+	}
+	.plan1 h3.mid-head {
+		font-size: 23px;
+	}
+	.freelance_list .dropdown-menu {
+		right: 163px;
+	}
+	.post_job .job_head h3{
+		font-size: 14px;
+	}
+	.my_conversation .first-info h3{
+		font-size: 14px;
+	}
+	.my_conversation .time {
+		font-size: 9px;
+	}
+	.receiver-msg, .sender-msg{
+		padding: 10px;
+	}
+	.slider_sec .swiper-slide .img-fluid {
+		height: 400px;	
+	}
+	.first-head h3::after{
+		width: 46px;
+	}
+	.aboutus_info .text1 h3 {
+		font-size: 20px;
+		padding: 0px 0 20px;
+	}
+	.text1 p {
+		font-size: 12px;
+		line-height: 2;
+	}
+	.iner_about_txt {
+		padding: 30px 0 0;
+	}
+	.about_bottom .bot-txt h3 {
+		font-size: 30px;
+	}
+}
